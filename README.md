@@ -1,5 +1,5 @@
 - 👋 Hi, I’m IbbadArshadButt
-- 👀 I’m interested in Web Design & Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Web Designing
+- 👀 I’m interested in Full Stack WebApps Development
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m actively looking to collaborate.
 - 📫 How to reach me ... Email:ibbadbutt3521@gmail.com
